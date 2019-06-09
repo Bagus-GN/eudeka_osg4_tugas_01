@@ -6,7 +6,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return new MaterialApp(
-      title: 'Eudeka OSG4 Tugas Ke-1 oleh Bagus Ganang Nugroho.',
+      title: 'Eudeka OSG4 Tugas Ke-1 oleh Bagus Ganang Nugroho. (OSG04027)',
       home: new Scaffold(
         appBar: AppBar(
           title: new Text('Potensi Kabupaten Sukoharjo'),
